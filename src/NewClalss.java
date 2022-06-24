@@ -5,5 +5,8 @@ public class NewClalss {
 		int sum = a+b;
 		return sum;
 	}
-	
+	public int minus (int a , int b) {
+		int minus = a-b;
+		return minus;
+	}	
 }
